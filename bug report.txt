@@ -1,0 +1,26 @@
+Bug report:
+
+ID: Tc_001
+
+Module: Contact Form
+
+Date: 10/Jan/24
+
+Description: Error messages are not displayed when the user attempts to submit the form without entering information into the message box.
+
+Attachments: https://shorturl.at/pxCE0
+
+Steps:
+
+Launch the URL: https://www.tendable.com/
+Click on the "Contact Us" menu button.
+Click on "Contact" under the Marketing section.
+Enter the Full Name.
+Enter the Organization Name.
+Enter the Phone Number.
+Enter the Email.
+Choose the Job Role.
+Click on the "Agree" checkbox.
+Click on the "Submit" button.
+
+Expected Result: Error messages should display when the user submits the form without entering information into the message box.
